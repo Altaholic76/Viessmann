@@ -63,6 +63,9 @@ define('READABLE_IDS', [
     'ventilation.operating.programs.standby'              => 'Lüftung Standby (AUS)',
     'ventilation.schedule'                                => 'Lüftung Zeitprogramm',
     'ventilation'                                         => 'Betrieb Lüftung'
+    'heating.compressors.N.heat.production.dhw'           => 'Energieerzeugung Warmwasser'
+    'heating.compressors.N.heat.production.heating'       => 'Energieerzeugung Heizung'
+       
 
 ]);
 
